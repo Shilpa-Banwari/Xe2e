@@ -15,7 +15,7 @@ namespace TestGitRep.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is my self created application.";
+            ViewBag.Message = "This is my self created application!!";
 
             return View();
         }
